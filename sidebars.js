@@ -4,5 +4,6 @@ module.exports = {
     Features: ['mdx'],
     G: ['gt'],
     L: ['lad'],
+    R: ['rmws'],
   },
 };
