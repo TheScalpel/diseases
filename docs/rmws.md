@@ -5,4 +5,8 @@ sidebar_label: Renal magnesium wasting syndrome
 ---
 
 ## Pathophysiology
-- mutation in the gene encoding claudin 16 
+- mutation in the gene encoding claudin 16
+
+## Features
+- hypomagnesemia
+- seizures
