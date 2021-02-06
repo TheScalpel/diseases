@@ -22,8 +22,8 @@ module.exports = {
         },
         {to: 'blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
+          href: 'https://github.com/TheScalpel/diseases',
+          label: 'Edit',
           position: 'right',
         },
       ],
