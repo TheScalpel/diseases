@@ -1,7 +1,7 @@
 ---
 id: cmt
-title: Diseases
-sidebar_label: Diseases
+title: Charcot–Marie–Tooth disease
+sidebar_label: Charcot–Marie–Tooth disease
 ---
 ## Pathophysiology
 - connexin 32 (Cx32) protein is expressed in Schwann cells (involved in production of myelin around axons in peripheral nervous system)
