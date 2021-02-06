@@ -1,8 +1,8 @@
 module.exports = {
   someSidebar: {
-    Docusaurus: ['doc1', 'doc2', 'doc3'],
-    Features: ['mdx'],
+    Wiki: ['doc1'],
     A: ['aih'],
+    B: ['beh'],
     C: ['cmt', 'clepd'],
     G: ['gt'],
     H: ['hc'],
