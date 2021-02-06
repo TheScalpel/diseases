@@ -4,6 +4,7 @@ module.exports = {
     A: ['aih'],
     B: ['beh'],
     C: ['cmt', 'clepd'],
+    D: ['dvt'],
     G: ['gt'],
     H: ['hc'],
     I: ['ibm'],
