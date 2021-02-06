@@ -7,6 +7,7 @@ module.exports = {
     H: ['hc'],
     I: ['ibm'],
     J: ['jia'],
+    K: ['ks'],
     L: ['lad'],
     P: ['pemfo', 'pemvu'],
     R: ['rmws'],
