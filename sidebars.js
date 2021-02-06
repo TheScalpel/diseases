@@ -4,6 +4,7 @@ module.exports = {
     Features: ['mdx'],
     C: ['cmt', 'clepd'],
     G: ['gt'],
+    H: ['hc'],    
     L: ['lad'],
     P: ['pemfo', 'pemvu'],
     R: ['rmws'],
