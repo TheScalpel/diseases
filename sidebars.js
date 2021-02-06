@@ -5,7 +5,7 @@ module.exports = {
     C: ['clepd'],
     G: ['gt'],
     L: ['lad'],
-    P: ['pemfo'],
+    P: ['pemfo', 'pemvu'],
     R: ['rmws'],
   },
 };
