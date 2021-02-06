@@ -9,7 +9,7 @@ sidebar_label: Hemochromatosis
 
 ## Clinical
 - asymptomatic in early stages
-- hepatic dysfunction → hepatomegaly, fibrosis → cirrhosis
+- hepatomegaly, fibrosis → cirrhosis
 - noninflammatory arthropathy
 - loss of libido, testicular atrophy
 - diabetes mellitus
