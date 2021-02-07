@@ -14,5 +14,6 @@ module.exports = {
     L: ['lcpd', 'lad'],
     P: ['pemfo', 'pemvu'],
     R: ['rmws'],
+    W: ['was'],
   },
 };
