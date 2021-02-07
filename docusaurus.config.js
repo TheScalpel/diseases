@@ -1,6 +1,6 @@
 module.exports = {
   title: 'Diseases',
-  tagline: 'The tagline of my site',
+  tagline: '“To know that you do not know is the best. To think you know when you do not is a disease. Recognizing this disease as a disease is to be free of it.” ― Lao Tzu',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
