@@ -5,7 +5,7 @@ module.exports = {
     B: ['bbs', 'beh'],
     C: ['cmt', 'clepd'],
     D: ['dvt'],
-    E: ['eb'],
+    E: ['echi', 'eb'],
     G: ['gt'],
     H: ['hc'],
     I: ['ibm'],
