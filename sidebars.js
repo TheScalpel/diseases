@@ -1,6 +1,6 @@
 module.exports = {
   someSidebar: {
-    Wiki: ['doc1'],
+    Work in progress: ['doc1'],
     A: ['aih'],
     B: ['beh'],
     C: ['cmt', 'clepd'],
@@ -9,7 +9,7 @@ module.exports = {
     G: ['gt'],
     H: ['hc'],
     I: ['ibm'],
-    J: ['jia'],
+    J: ['jatd', 'jia'],
     K: ['ks'],
     L: ['lcpd', 'lad'],
     P: ['pemfo', 'pemvu'],
