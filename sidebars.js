@@ -2,7 +2,7 @@ module.exports = {
   someSidebar: {
     Warning: ['doc1'],
     A: ['aih'],
-    B: ['beh'],
+    B: ['bbs', 'beh'],
     C: ['cmt', 'clepd'],
     D: ['dvt'],
     E: ['eb'],
