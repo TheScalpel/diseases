@@ -1,6 +1,6 @@
 module.exports = {
   someSidebar: {
-    Work in progress: ['doc1'],
+    Warning: ['doc1'],
     A: ['aih'],
     B: ['beh'],
     C: ['cmt', 'clepd'],
